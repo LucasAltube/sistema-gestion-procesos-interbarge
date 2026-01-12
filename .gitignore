@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+
+# macOS / editor
+*.swp
+*.swo
+*.tmp
+
+# Office temp files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# PDFs/Office caches (optional)
+*.~lock.*
